@@ -3,5 +3,5 @@
   "version": "2.1.7",
   "force": true,
   "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/masterbox_v217.bin",
-  "afb32835d17c4f323c586c142a859842e9236b7c9505a917ee78195cb8edbf8b"
+  "sha256": "afb32835d17c4f323c586c142a859842e9236b7c9505a917ee78195cb8edbf8b"
 }
