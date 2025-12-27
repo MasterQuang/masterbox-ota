@@ -3,5 +3,5 @@
   "version": "2.1.6",
   "force": true,
   "bin_url": "https://github.com/MasterQuang/masterbox-ota/releases/download/v1-test/masterbox.ino.bin",
- "sha256": "3031b7f07d3cad6fad124bc84faed93ed16dce26c5fa7dad95a41a767eabcd68"
+  "sha256": "3031b7f07d3cad6fad124bc84faed93ed16dce26c5fa7dad95a41a767eabcd68"
 }
