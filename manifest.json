@@ -1,7 +1,7 @@
 {
   "target_mac": "",
-  "version": "2.1.7",
+  "version": "2.1.9",
   "force": true,
-  "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/masterbox_v217.bin",
-  "sha256": "afb32835d17c4f323c586c142a859842e9236b7c9505a917ee78195cb8edbf8b"
+  "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/ten_sketch.bin",
+  "sha256": "e4639e3429fe9fafaec85bf8239b2d4c3ad15b6248807e8c17bf1b437d09db94"
 }
