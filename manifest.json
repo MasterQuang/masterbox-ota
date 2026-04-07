@@ -2,5 +2,5 @@
   "version": "2.2.0",
   "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/Master123.ino.bin",
   "sha256": "F2D477132AF0FC1B67569FCCAB21A175F885E7CB99A513552116610104F7A507",
- "force": false
+ "force": true
 }
