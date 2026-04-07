@@ -2,6 +2,6 @@
   "target_mac": "",
   "version": "2.2.0",
   "force": true,
-  "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/test.bin",
-  "sha256": "5824e2e8f87cbc8bc29b5e88b75c5a6b3cd2f7bfa99d0e66ce4242cafd8cefac"
+  "bin_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/Master123.ino.enc",
+  "sha256": "f2d477132af0fc1b67569fccab21a175f885e7cb99a513552116610104f7a507"
 }
