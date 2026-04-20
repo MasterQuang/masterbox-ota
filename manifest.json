@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "enc_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/Master123_with_ok.ino.enc",
-  "plain_sha256": " 8E7879CCE8565A23001F2FD3715B72CABB2BB10EB3F50772D5D5B5A62ED13E2A",
+  "enc_url": "https://raw.githubusercontent.com/MasterQuang/masterbox-ota/main/M.enc",
+  "plain_sha256": " 8E7879CCE8565A23001F2FD3715B72CABB2BB10EB3F50772D5D5D13E2A",
   "force": false
 }
